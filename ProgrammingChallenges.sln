@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz", "FizzBuzz\FizzBuzz.vcxproj", "{5ABB1CD7-0248-43FF-BDD2-3F3140D2ECC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci", "Fibonacci\Fibonacci.vcxproj", "{B0ECF089-D19E-4B1B-A67A-C999488B9A87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5ABB1CD7-0248-43FF-BDD2-3F3140D2ECC9}.Release|x64.Build.0 = Release|x64
 		{5ABB1CD7-0248-43FF-BDD2-3F3140D2ECC9}.Release|x86.ActiveCfg = Release|Win32
 		{5ABB1CD7-0248-43FF-BDD2-3F3140D2ECC9}.Release|x86.Build.0 = Release|Win32
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Debug|x64.ActiveCfg = Debug|x64
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Debug|x64.Build.0 = Debug|x64
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Debug|x86.Build.0 = Debug|Win32
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Release|x64.ActiveCfg = Release|x64
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Release|x64.Build.0 = Release|x64
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Release|x86.ActiveCfg = Release|Win32
+		{B0ECF089-D19E-4B1B-A67A-C999488B9A87}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
